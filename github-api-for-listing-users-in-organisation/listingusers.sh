@@ -8,7 +8,6 @@
 
 # owner : Venkata Viswas
 
-# support : please contact iam_veeramalla for any problems or issues .
 
 ###############
 
